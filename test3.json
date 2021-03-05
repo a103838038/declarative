@@ -3,7 +3,7 @@
         "name": "policy-api-arcadia",
         "description": "Arcadia API",
         "template": {
-            "name": "POLICY_TEMPLATE_API_SECURITY"
+            "name": "Rapid Deployment Policy"
         },
         "enforcementMode": "blocking",
         "server-technologies": [
